@@ -156,9 +156,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Divyakumar**
-- Portfolio: [Your Portfolio Website]
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
+- LinkedIn: [https://www.linkedin.com/in/divyakumar-sanjaykumar-patel-4231ba257/]
+- Email: [pateldivyakuamr889@gmail.com]
 
 ## 🙏 Acknowledgments
 
