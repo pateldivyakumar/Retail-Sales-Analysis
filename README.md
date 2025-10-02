@@ -5,6 +5,7 @@ A comprehensive data analysis project examining retail sales patterns and custom
 ## 🚀 Project Overview
 
 This project analyzes retail transaction data spanning 2009-2011 to uncover valuable business insights including:
+
 - Sales performance trends over time
 - Top-performing products and markets
 - Customer segmentation using RFM analysis
@@ -26,6 +27,7 @@ Retail-Sales-Analysis/
 ## 🔍 Key Analysis Components
 
 ### 1. **Data Preprocessing & Cleaning**
+
 - Merged data from multiple Excel sheets (2009-2010 & 2010-2011)
 - Removed missing customer IDs and duplicate records
 - Filtered out negative/zero quantities
@@ -33,11 +35,13 @@ Retail-Sales-Analysis/
 - **Result**: Clean dataset with 779,495 transactions from 1,067,371 original records
 
 ### 2. **Sales Trend Analysis**
+
 - **Monthly Sales Performance**: Time series analysis showing seasonal patterns and growth trends
 - **Geographic Analysis**: Top 10 countries by sales revenue with interactive visualizations
 - **Product Performance**: Top 10 best-selling products by quantity
 
 ### 3. **Customer Segmentation (RFM Analysis)**
+
 - **Recency**: Days since last purchase
 - **Frequency**: Number of purchases made
 - **Monetary**: Total amount spent
@@ -45,6 +49,7 @@ Retail-Sales-Analysis/
 - **Segmentation**: Combined RFM scores to identify customer segments
 
 ### 4. **Data Visualizations**
+
 - Interactive Plotly charts for geographic sales distribution
 - Time series plots for sales trends
 - Scatter plots for customer segmentation analysis
@@ -62,22 +67,26 @@ Retail-Sales-Analysis/
 ## 📊 Key Insights & Findings
 
 ### Sales Performance
+
 - Clear seasonal patterns in monthly sales data
 - Identification of peak sales periods
 - Geographic concentration of sales in specific markets
 
 ### Customer Behavior
+
 - Customer segmentation reveals distinct purchasing patterns
 - RFM analysis identifies high-value customers
 - Frequency vs. monetary value correlation analysis
 
 ### Product Analysis
+
 - Top 10 products drive significant portion of total volume
 - Product performance varies by geographic region
 
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 ```bash
 pip install pandas matplotlib seaborn plotly jupyter
 ```
@@ -85,22 +94,23 @@ pip install pandas matplotlib seaborn plotly jupyter
 ### Installation & Usage
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/yourusername/Retail-Sales-Analysis.git
    cd Retail-Sales-Analysis
    ```
-
 2. **Install dependencies**
+
    ```bash
    pip install -r requirements.txt
    ```
-
 3. **Launch Jupyter Notebook**
+
    ```bash
    jupyter notebook notebooks/Retail_Sales_Analysis.ipynb
    ```
-
 4. **Run the analysis**
+
    - Execute cells sequentially to reproduce the analysis
    - Modify parameters to explore different aspects of the data
 
@@ -114,24 +124,17 @@ The analysis generates several key visualizations:
 - **Customer Segmentation**: Scatter plot showing RFM analysis results
 - **Score Distribution**: Histogram of customer RFM scores
 
-## 🔮 Future Enhancements
-
-- [ ] Predictive analytics for sales forecasting
-- [ ] Customer lifetime value (CLV) calculation
-- [ ] Market basket analysis
-- [ ] Advanced customer segmentation algorithms
-- [ ] Dashboard creation with interactive filters
-- [ ] Automated reporting system
-
 ## 📁 Dataset Information
 
 **Source**: Online Retail II Dataset
+
 - **Time Period**: December 2009 - December 2011
 - **Records**: 1,067,371 initial transactions
 - **Geography**: Multiple countries with UK as primary market
 - **Sectors**: Retail sales with variety of products
 
 **Key Columns**:
+
 - Invoice: Transaction identifier
 - StockCode: Product identifier
 - Description: Product description
@@ -149,16 +152,12 @@ The analysis generates several key visualizations:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Divyakumar**
-- Portfolio: [Your Portfolio Website]
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
+
+* LinkedIn: [[https://www.linkedin.com/in/divyakumar-sanjaykumar-patel-4231ba257/](https://www.linkedin.com/in/divyakumar-sanjaykumar-patel-4231ba257/)]
+* Email: [[pateldivyakuamr889@gmail.com](mailto:pateldivyakuamr889@gmail.com)]
 
 ## 🙏 Acknowledgments
 
