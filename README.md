@@ -123,7 +123,6 @@ The analysis generates several key visualizations:
 - **Product Rankings**: Horizontal bar chart of best-selling products
 - **Customer Segmentation**: Scatter plot showing RFM analysis results
 - **Score Distribution**: Histogram of customer RFM scores
-
 ## 📁 Dataset Information
 
 **Source**: Online Retail II Dataset
@@ -155,9 +154,8 @@ The analysis generates several key visualizations:
 ## 👨‍💻 Author
 
 **Divyakumar**
-
-* LinkedIn: [[https://www.linkedin.com/in/divyakumar-sanjaykumar-patel-4231ba257/](https://www.linkedin.com/in/divyakumar-sanjaykumar-patel-4231ba257/)]
-* Email: [[pateldivyakuamr889@gmail.com](mailto:pateldivyakuamr889@gmail.com)]
+- LinkedIn: [https://www.linkedin.com/in/divyakumar-sanjaykumar-patel-4231ba257/](https://www.linkedin.com/in/divyakumar-sanjaykumar-patel-4231ba257/)
+- Email: [pateldivyakuamr889@gmail.com](mailto:pateldivyakuamr889@gmail.com)
 
 ## 🙏 Acknowledgments
 
