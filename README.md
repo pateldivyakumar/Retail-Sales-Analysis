@@ -143,6 +143,25 @@ The analysis generates several key visualizations:
 - Customer ID: Customer identifier
 - Country: Customer location
 
+## 🌟 Best Repositories for Data Analysts
+
+A curated list of GitHub repositories that every data analyst should explore:
+
+| Repository | Description |
+|---|---|
+| [pandas-dev/pandas](https://github.com/pandas-dev/pandas) | The essential Python library for data manipulation and analysis |
+| [numpy/numpy](https://github.com/numpy/numpy) | Fundamental package for scientific computing with Python |
+| [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) | Comprehensive library for creating static, animated, and interactive visualizations |
+| [mwaskom/seaborn](https://github.com/mwaskom/seaborn) | Statistical data visualization built on top of Matplotlib |
+| [plotly/plotly.py](https://github.com/plotly/plotly.py) | Interactive, open-source graphing library for Python |
+| [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) | Machine learning library featuring classification, regression, clustering, and more |
+| [jupyter/notebook](https://github.com/jupyter/notebook) | Interactive computing notebook used widely in data analysis |
+| [streamlit/streamlit](https://github.com/streamlit/streamlit) | Fastest way to build and share data apps |
+| [apache/superset](https://github.com/apache/superset) | Modern data exploration and visualization platform |
+| [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials including data science projects |
+| [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) | Data science Python notebooks covering deep learning, ML, and big data |
+| [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) | Python Data Science Handbook – full text as Jupyter notebooks |
+
 ## 🤝 Contributing
 
 1. Fork the repository
